@@ -1,2 +1,3 @@
 #!/bin/bash
 echo "Im here 2"
+echo "pomenzl 30.11"
